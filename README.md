@@ -1,5 +1,4 @@
-# 4-BIT-RIPPLE-COUNTER
-
+## 4-BIT-RIPPLE-COUNTER
 **AIM:**
 
 To implement  4 Bit Ripple Counter using verilog and validating their functionality using their functional tables
